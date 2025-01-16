@@ -41,5 +41,5 @@
         android:layout_marginTop="16dp"
         android:text="Rezultatele vor fi afișate aici"
         android:textSize="18sp"
-        android:textColor="#000000" />
+        android:textColor="#FFFFFF" />
 </LinearLayout>
